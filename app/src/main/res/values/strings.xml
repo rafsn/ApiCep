@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViaCEP</string>
+
+    <!--    SearchAddressFragment-->
+    <string name="not_address_found">Nenhum endereço encontrado\ncom o cep digitado.</string>
+    <string name="enter_zip_code">Digite o CEP para obter o endereço</string>
+    <string name="number_zip_code">01311300</string>
+    <string name="save_zip_code">Salvar</string>
+
+</resources>
